@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
+To run the project, first clone the repository, then run flutter run
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Features I have integrated into the application:
 
-A few resources to get you started if this is your first Flutter project:
+Handling and storing images locally (you can still view images while offline)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Pull-down-to-refresh mechanism to reload data
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Auto-refresh feature when the internet connection is restored
+
+Ability to download images to the device and view them in detail
